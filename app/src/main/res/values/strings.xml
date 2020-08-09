@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">1111</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="FAQ">FAQ</string>
+    <string name="general">General</string>
+    <string name="food_beverage"><![CDATA[Food & Beverage]]></string>
+    <string name="rating">Rating</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="u">This category is for viewing by all walks of life without  age limit. The film potrays good values, decency  and positive lessons as well as entertaining.</string>
+    <string name="p13">Viewers under 13 years of age need parental/guardian  supervision while viewing. Scenes in the film consists  elements of horror; scary; negative acts; suspense  and frantic elements, but not excessive; elusive  storyline; and elements that can disturb a child’s emotion.</string>
+    <string name="p18">This category is for viewers aged 18 and above. The film  contains elements of horror, gory, and violent, but not  excessive; adult scene that is not excessive; social,  sensitive political and religious elements which require  a high level understanding.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
